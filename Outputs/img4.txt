@@ -1,0 +1,12 @@
+Aqui está um exemplo simples de um método em Python que utiliza repetição:
+
+python
+def repetir_mensagem(mensagem, vezes):
+    for i in range(vezes):
+        print(f"Repetição {i+1}: {mensagem}")
+
+# Exemplo de uso:
+repetir_mensagem("Olá, mundo!", 5)
+Este código define uma função chamada repetir_mensagem que repete a exibição de uma mensagem na tela o número de vezes especificado pelo parâmetro vezes.
+
+Se você executar o exemplo acima, verá a mensagem "Olá, mundo!" repetida 5 vezes. Caso precise de algo mais avançado ou adaptado, é só avisar!
